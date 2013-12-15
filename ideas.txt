@@ -1,0 +1,7 @@
+from what I gathered on codecademy, we are going to try to use the skype api to make a chat application.
+
+i havn't had time to read all the documentation on that, but I think another thing we could do is make a websocket
+
+if we can find a server that will accept python script then making a websocket shouldn't be too hard
+
+anybody know of any servers that'll let us upload python?
