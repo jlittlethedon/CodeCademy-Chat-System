@@ -5,3 +5,21 @@ i havn't had time to read all the documentation on that, but I think another thi
 if we can find a server that will accept python script then making a websocket shouldn't be too hard
 
 anybody know of any servers that'll let us upload python?
+
+I know a good company that does shared and dedicated servers and hosting, I need the following details to estimate the cost or to see 
+or to see if they could possibly put an old server online for us for free:
+
+what are minimun requirements for :
+
+processor
+RAM
+HDD
+do we need RAID on it? (gets quite expensive)
+OS (ubuntu has a free server OS)
+how much throughput ? 
+
+
+Also I was thinking that we should make a list of funtionality we would like to add to teh chat applet. 
+Make maybe a flowhart of the process or simply plan it out? so we dont run around like chickens with their head cut off :P
+
+(edited by chawlakarank)
